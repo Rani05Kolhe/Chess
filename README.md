@@ -1,1 +1,2 @@
 # Chess
+new game
